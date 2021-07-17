@@ -1,0 +1,5 @@
+Labelas_Enoreth    500 234 92 34
+Moradin_Faenya     400 167 101 21
+Muamman_Duathal    300 154 129 12
+Olidammara         200 228 80 40
+Pelor_Roykyn  	   100 224 98 50

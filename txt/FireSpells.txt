@@ -1,0 +1,5 @@
+FireFlame       250		1		350 		100		15
+Fireball    	400		2		450 		200		20
+Dragon_Fire  	550		4		650 		300		25
+Inferno_Blaze	800		6		850 		400		30
+SoulBurning  	900		6		1000		500		45

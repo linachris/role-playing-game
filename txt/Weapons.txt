@@ -1,0 +1,6 @@
+Basilisk_Steel    200    1    300     1
+The_Arc_Axe       250    1    350     1
+Nightmare_Bow     400    3    600     2
+Heartbreaker      550    2    800     1
+Heavenly_Sword    800    4    1000    2
+Death_Slasher     900    6    1150    2

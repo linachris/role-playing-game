@@ -1,0 +1,5 @@
+Erevan_Ilesere      500 30 102 130
+Fenmarel_Mesta      450 22 132 110
+Fharlanghn          350 20 161 90
+Flandal_Steel       300 18 129 119
+Gadhelyn            450 25 141 100

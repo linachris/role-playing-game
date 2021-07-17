@@ -1,0 +1,5 @@
+Brandobaris             1 40 120 10
+Callarduran             5 33 120 13
+Charmalaine             2 23 120 14
+Clangeddin              3 11 120 20
+Larethian               4 22 120 14

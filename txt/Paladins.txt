@@ -1,0 +1,5 @@
+Gaerdal_Iron      200 125 134 11
+Garl_Glittergo    300 114 156 34
+Gendwar_Argrim    230 135 120 23
+Halani_Celanil    540 101 178 45
+Heironeous        320 168 112 20

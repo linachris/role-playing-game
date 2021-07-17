@@ -1,0 +1,11 @@
+Mega-Potion           150   1   68  magicPower
+Turbo_Ether           340   1   100 strength
+Ether_Elixir          800	1	25 	all
+Stamina_Tonic	 	  200 	2	60 	health
+Hi-Potion             150   2   112 strength
+Gold_Hourglass 	      400 	3	100	magicPower
+X-Potion              214   3   23  agility
+Purifying_Salt 	 	  450 	4	40 	dexterity
+Mega_Phoenix		  650 	4	80 	strength
+Silence_Grenade	 	  500 	5	70 	agility
+Megalixir       	  800	5	25 	all

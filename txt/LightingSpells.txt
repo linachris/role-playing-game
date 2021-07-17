@@ -1,0 +1,5 @@
+Lightning      	150		2		350 	100		15
+Flash_Light    	200		2		450 	200		20
+Meteor_Strike   550		3		650 	300		25
+Bolt_Strike   	800		5		850 	400		30
+Heaven's_Light	900		8		1000	600		50

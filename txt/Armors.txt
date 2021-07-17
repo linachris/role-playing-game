@@ -1,0 +1,6 @@
+Glorious_Shield			200    1    300
+Star_Helmet    			300    1    400
+Moon_Shield    			400    2    600
+Golem_Helmet   			550    4    800
+Assault_Shield 			800    5    1000
+Curative_Shield			1000   7    1200

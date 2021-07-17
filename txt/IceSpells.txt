@@ -1,0 +1,5 @@
+Freeze_Wave	  200	1	350 	100		10
+Ice_Tsunami	  350	1	500 	200		15
+Frostbite     500	3	650 	300		20
+Avalanche     750	5	800 	400		35
+Deadly_Ice    900	8	1000	500		55

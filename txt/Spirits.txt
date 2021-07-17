@@ -1,0 +1,5 @@
+Aerdrie_Faenya        1 30 20 95
+Arvoreen              3 25 10 90
+Baervan_Wildwanderer  2 32 15 97
+Baravar_Cloakshadow   5 23 20 99
+Berronar_Truesilver   4 22 16 96
